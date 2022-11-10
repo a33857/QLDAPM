@@ -7,6 +7,11 @@ aaaaaa
 aaa
  
  lsndgjnskjdgnksajdngkasjgnksdjgnajgnal
+<<<<<<< HEAD
 
 
  Sửa lần 2
+=======
+asdasdsa
+ jidjfnsfd
+>>>>>>> 9a565402605c36560261e022537b1755b31d553c
