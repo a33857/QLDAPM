@@ -1,2 +1,2 @@
 aaaaaa
-asdjhaj
+asdjhajgit config --global user.name "your_username"
